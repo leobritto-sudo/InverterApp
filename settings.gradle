@@ -1,0 +1,2 @@
+rootProject.name='Inverter'
+include ':app'
